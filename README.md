@@ -2,7 +2,7 @@
 A quick implementation of a Rock Paper Scissors game made in Unity.
 
 Play the game here:
-https://github.com/RoganGutwillinger/DemoProjectRPS.git
+[https://github.com/RoganGutwillinger/DemoProjectRPS.git](https://rogangutwillinger.itch.io/demoprojectrps?secret=lLqTUeIQphA6pXgtMT5qWp1i24)
 
 Features to be added:
 - Audio! Some basic SFX for buttons, game rounds, and winning/losing
